@@ -1,130 +1,112 @@
+![MasterHead](https://wallpapercave.com/wp/wp6830287.gif)
+
 <h1 align="center">Hi 👋, I'm Aditi Arun</h1>
-<h3 align="center">B.Tech Information Technology Undergraduate | AI and Automation Engineer | Robotics & Machine Learning Enthusiast</h3>
+<h3 align="center">AI & Automation Engineer | B.Tech in Information Technology | Mars Rover Manipal | Robotics & Machine Learning Enthusiast</h3>
 
 <p align="center">
-<!-- Profile views badge linked to the GitHub username 'adxti12' -->
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dadxti12%26label%3DProfile%2520views%26color%3D0e75b6%26style%3Dflat" alt="adxti12" />
+  <img src="https://komarev.com/ghpvc/?username=adxti12&label=Profile%20views&color=ff69b4&style=flat" alt="adxti12" />
 </p>
 
-🚀 Professional Summary
+---
 
-I am a third-year B.Tech Information Technology student specializing as an AI and Automation Engineer. I am passionate about designing and implementing autonomous systems for robotics, with a strong focus on ROS2 and OpenCV. My experience includes leading teams in international competitions and developing robust computer vision and deep learning solutions.
+## 🚀 About Me
+I am a passionate **AI and Automation Engineer** currently pursuing **B.Tech in Information Technology** at Manipal Institute of Technology.  
+My work lies at the intersection of **robotics, AI, and computer vision**, where I design and deploy autonomous systems using **ROS2**, **OpenCV**, and **deep learning frameworks**.
 
-👑 Onsite Technical Head for the Mars Rover Manipal team at the European Rover Challenge (ERC).
+- 🤖 **AI & Automation Engineer at Mars Rover Manipal**, developing autonomous navigation and detection pipelines.
+- 🌍 Led the team as **Onsite Technical Head at the European Rover Challenge 2025** in Krakow, Poland.
+- 💡 Experienced in **ROS2, ZED 2i stereo vision, IMU integration, and differential GPS localization**.
+- 🧠 Skilled in **object detection, deep learning, GAN-based image generation, and control systems**.
+- 💬 Ask me about **robotics, ROS2, computer vision, and synthetic image generation**.
+- 📫 Reach me at **aditi.pers@gmail.com**  
+- 📄 LinkedIn: [Aditi Arun](https://linkedin.com/in/aditi-arun-452929322)
 
-💡 Led the team in international competitions, focusing on building and integrating autonomous systems.
+---
 
-🎯 Experienced in AI, deep learning (YOLOV8, custom NNs), and robust ROS2 navigation stacks.
+## 🏆 Achievements
+- 🥇 **1st Place — International Rover Challenge 2025**, leading AI & automation efforts in autonomous navigation and object detection.  
+- 🥇 **1st Place — Autonomous Expedition**, demonstrating advanced rover control and perception modules.  
+- 🏅 **Finalist — International Rover Design Challenge 2025**.  
+- 🛰️ Represented Mars Rover Manipal at the **European Rover Challenge 2025** as Onsite Technical Head.  
+- 🧩 Trained YOLOv8 models for **arrow and cone detection** with >85% accuracy.  
+- 🧠 Built a **GAN-based framework for synthetic facial image generation** in cybersecurity applications.  
 
-💬 Ask me about ROS2 navigation, YOLOV8 detection, ArUco localization, and embedded systems (Embedded C, FreeRTOS).
+---
 
-📫 Reach me at aditi.pers@gmail.com
-
-📄 LinkedIn: aditi-arun-452929322
-
-🏆 Awards & Achievements
-
-1st Place — International Rover Challenge (IRC) 2025
-
-1st Place — Autonomous Expedition (IRC)
-
-Finalist — International Rover Design Challenge 2025
-
-Led the Mars Rover Manipal team onsite during ERC 2025, implementing and overseeing the Agile framework for technical coordination.
-
-🛠️ Skills & Technologies
+## 🛠️ Skills & Tools
 
 <p align="left">
-<!-- Programming Languages -->
-<b>Languages:</b>
-<a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://www.cprogramming.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/></a>
-<a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<img src="https://www.espressif.com/sites/all/themes/espressif/images/logo-guidelines/primary-vertical-logo.png" alt="Embedded C" width="40" height="40"/>
-<a href="https://www.assembly-language.info/" target="_blank"><img src="https://img.icons8.com/color/512w/assembly.png" alt="assembly" width="40" height="40"/></a>
+  <b>Languages:</b>
+  <a href="https://www.python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></a>
+  <a href="https://www.cprogramming.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/cpp/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
+  <a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/Assembly_language"><img src="https://img.icons8.com/color/512w/assembly.png" width="40" height="40"/></a>
+  <a href="https://www.w3.org/standards/webdesign/htmlcss"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></a>
+  <a href="https://www.w3.org/standards/webdesign/htmlcss"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/></a>
 </p>
 
 <p align="left">
-<!-- Technologies & Tools -->
-<b>Technologies & Tools:</b>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" alt="ROS2" width="40" height="40"/>
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
-<img src="https://index.ros.org/assets/repo.png" alt="RViz" width="40" height="40"/>
-<a href="https://gazebosim.org/" target="_blank"><img src="https://cdn.imgbin.com/5/2/17/imgbin-robotics-simulator-simulation-gazebo-open-source-robotics-foundation-gazebo-9ErCnGeiW5TTBFmnsmuZG1Ucc.jpg" alt="Gazebo" width="40" height="40"/></a>
-<a href="https://ardupilot.org/" target="_blank"><img src="https://firmware.ardupilot.org/Tools/Logos/ArduPilot-Cleaned-Transparent.png" alt="ArduPilot" width="40" height="40"/></a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <b>Technologies & Tools:</b>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" alt="ROS2" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <a href="https://gazebosim.org/"><img src="https://avatars.githubusercontent.com/u/94842563?s=200&v=4" alt="Gazebo" width="40" height="40"/></a>
+  <a href="https://opencv.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/></a>
+  <a href="https://github.com/ros-visualization/rviz"><img src="https://index.ros.org/assets/repo.png" alt="RViz" width="40" height="40"/></a>
 </p>
 
-📂 Projects & Work Experience
+---
 
-Role/Project
+## 📂 Projects
 
-Description
+| Project | Description | Link |
+|----------|-------------|------|
+| **Autonomous Navigation System** | ROS2-based navigation stack for obstacle avoidance, cone stopping, and waypoint traversal for the International Rover Challenge. | — |
+| **Synthetic Image Generation for Cybersecurity and ML** | GAN-based framework for synthetic facial image aging and privacy-preserving data augmentation. | — |
+| **Drone Automation with Ardupilot** | Autonomous drone navigation and landing using DGPS and computer vision feedback on Cube Orange. | — |
+| **Neural Network from Scratch** | 3-layer NN for MNIST classification (91% accuracy) with custom layers, activations, and training pipeline. | — |
+| **Database Management Job Portal** | Job portal with Oracle SQL+ backend and Visual Studio frontend (C# and ADO.NET). | — |
+| **Pedometer on LPC1768** | Step counter using IMU over I2C with real-time LCD display. | — |
 
-Onsite Technical Head — ERC 2025
+---
 
-Led the Mars Rover Manipal team onsite, implementing and overseeing the Agile framework. Coordinated rover development and technical submissions, supervising navigation, drone, and manipulator sub-sytems during the competition.
+## 💼 Roles & Experience
 
-AI and Automation Engineer — Mars Rover Manipal
+| Role | Description |
+|------|-------------|
+| **AI & Automation Engineer — Mars Rover Manipal** | Designed and implemented AI and navigation systems for the rover, including YOLOv8 detection, ArUco-based localization, and ZED 2i stereo vision integration. |
+| **Onsite Technical Head — European Rover Challenge 2025** | Led the Mars Rover Manipal team onsite, supervised navigation, manipulator, and drone systems, and coordinated technical report submissions. |
+| **Trainee — Mars Rover Manipal** | Developed a real-time OpenCV-based detection system, implemented neural networks from scratch, and created an IMU data visualization GUI using PyQt. |
 
-Developed core autonomy features: Trained a YOLOV8 model for arrow and cone detection ($>85\%$ accuracy). Designed and implemented a ROS2-based navigation stack (SLAM, waypoint planning, obstacle avoidance). Used ArUco tag pose estimation with OpenCV for high-precision localization. Integrated sensor data from ZED 2i stereo camera, IMU, and differential GPS with ROS2.
+---
 
-Autonomous Drone System
+## 🎓 Education
 
-Developed an autonomous drone system on Cube Orange with Ardupilot, integrating DGPS and computer vision feedback for precision landing tasks.
+| Degree | Institution | Year | CGPA / Score |
+|---------|--------------|------|---------------|
+| **B.Tech Information Technology** | Manipal Institute of Technology | 2023 – Present | 8.64 |
+| **Class XII (CBSE)** | — | 2022 | 92.8% |
+| **Class X (ICSE)** | — | 2020 | 96.8% |
 
-Neural Network from Scratch
+---
 
-Built and trained a 3-layer Neural Network to achieve $91\%$ accuracy on the MNIST digit classification dataset. This included implementing custom layers, activation functions, and the training algorithm.
+## 📜 Certifications
+- Programming in C++: A Hands-on Introduction  
+- Neural Networks and Deep Learning  
+- Convolutional Neural Networks  
+- Improving Deep Neural Networks: Hyperparameter Tuning, Regularization, and Optimization  
 
-Synthetic Image Generation for Cybersecurity and ML
+---
 
-Developed a GAN-based framework for generating synthetic facial images to simulate age progression, enabling secure and privacy-preserving data augmentation for ML models in cybersecurity.
-
-ECS Trainee Tasks (Trainee)
-
-Developed embedded and vision projects: Real-time yellow ball detection with OpenCV, a PyQt GUI for IMU data visualization, and a socket-based interface for smartphone IMU data visualization in RViz for teleoperation training.
-
-🎓 Education & Certifications
-
-Manipal Institute of Technology
-
-B.Tech Information Technology (Expected Graduation: 2027)
-
-CGPA: 8.64
-
-Coursework Highlights
-
-Data Structures & Algorithms
-
-Embedded Systems
-
-Database Management Systems
-
-Computer Networking
-
-Certifications
-
-Neural Networks and Deep Learning
-
-Convolutional Neural Networks
-
-Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
-
-Programming in C++: A Hands-on Introduction
-
-📫 Connect with Me
-
+## 📫 Connect with Me
 <p align="left">
-<!-- LinkedIn Icon -->
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/aditi-arun-452929322" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<!-- Placeholder for GitHub since it's the current page -->
-<a href="https://www.google.com/search?q=https://github.com/adxti12" target="_blank">
-<img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-</a>
+  <a href="https://linkedin.com/in/aditi-arun-452929322" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://github.com/adxti12" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
 </p>
